@@ -5,4 +5,3 @@ if __name__ == "__main__":
     for arg in argv[1:]:
         res += int(arg)
     print("{:d}".format(res))
-    
