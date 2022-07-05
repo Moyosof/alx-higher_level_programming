@@ -6,4 +6,3 @@ def print_matrix_integer(matrix=[[]]):
             if i != e[-1]:
                 print(' ', end='')
         print("")
-        

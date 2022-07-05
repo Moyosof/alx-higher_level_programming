@@ -5,4 +5,3 @@ def print_reversed_list_integer(my_list=[]):
     lst = reversed(my_list)
     for int in lst:
         print("{:d}".format(int))
-        
